@@ -1,0 +1,16 @@
+﻿<Window x:Class="Mnogopotochnocte.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mnogopotochnocte"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="ListV" Margin="0,91,179,0">
+        </ListView>
+        <Button Content="Открыть" HorizontalAlignment="Left" Margin="626,91,0,0" VerticalAlignment="Top" Height="36" Width="85" Click="Button_Click"/>
+        <Button Content="Создать новый файл" HorizontalAlignment="Left" Margin="626,155,0,0" VerticalAlignment="Top" Width="119" Height="36" Click=" Button_Click_1"/>
+        <Button Content="Создать новую папку" HorizontalAlignment="Left" Margin="626,217,0,0" VerticalAlignment="Top" Width="127" Height="36" Click="Button_Click_2"/>
+    </Grid>
+</Window>

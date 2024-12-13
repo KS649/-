@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\bin\Debug\Mnogopotochnocte.exe.config
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\bin\Debug\Mnogopotochnocte.exe
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\bin\Debug\Mnogopotochnocte.pdb
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte_MarkupCompile.cache
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte_MarkupCompile.lref
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte.g.resources
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte.Properties.Resources.resources
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte.exe
+C:\Users\Student\source\repos\Mnogopotochnocte\Mnogopotochnocte\obj\Debug\Mnogopotochnocte.pdb
